@@ -17,5 +17,5 @@ There's nothing quite like the feeling of utter and complete satisfaction I get 
 
 
 <a href="https://www.sdrhelper.com/"> ![](stage2.gif) </a>
-
+<a href="https://www.sdrhelper.com/"> ![](stage2.gif) </a>
 
