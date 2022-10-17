@@ -18,4 +18,4 @@ There's nothing quite like the feeling of utter and complete satisfaction I get 
 
 
 
- ! [](stage2.gif)
+ ![](stage2.gif)
