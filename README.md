@@ -20,6 +20,6 @@ There's nothing quite like the feeling of utter and complete satisfaction I get 
 
    <a href="#"><img src="https://github.com/DevJeetShah/full-stack-app-shutterbug/blob/main/public/images/shuttergif1.gif" alt=""></a>
 
-   <h4>Shutterbug is a full stack application built using: JavaScript, CSS, Bootstrap, MongoDB, Express, EJS, Passport and Nodejs</h4>
+   <h4>Shutterbug is a full stack web application built using: JavaScript, CSS, Bootstrap, MongoDB, Express, EJS, Passport and Nodejs</h4>
     
 </p>
