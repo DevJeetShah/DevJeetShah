@@ -33,3 +33,14 @@ There's nothing quite like the feeling of utter and complete satisfaction I get 
     
 </p>
 
+<p>
+   <h2 align="center">Freelance Work</h2>
+
+   <a href="#"><img src="https://github.com/DevJeetShah/DevJeetShah/blob/main/newstage2gif.gif" alt=""></a>
+
+   <h4>Stage2 is a website I developed and designed for my client Landon Meyer's business needs</h4>
+    
+</p>
+
+
+
