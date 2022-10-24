@@ -23,3 +23,13 @@ There's nothing quite like the feeling of utter and complete satisfaction I get 
    <h4>Shutterbug is a full stack web application built using: JavaScript, CSS, Bootstrap, MongoDB, Express, EJS, Passport and Nodejs</h4>
     
 </p>
+
+<p>
+   <h2 align="center">MuscleFit</h2>
+
+   <a href="#"><img src="https://github.com/DevJeetShah/full-stack-web-app-musclefit/blob/main/public/images/muscleFitAppGif.gif" alt=""></a>
+
+   <h4>MuscleFit is a full stack web application for fitness enthusiasts to craft their meal plan with macros and log their workout. The is built using: JavaScript, CSS, Bootstrap, MongoDB, Express, EJS, Passport and Nodejs</h4>
+    
+</p>
+
