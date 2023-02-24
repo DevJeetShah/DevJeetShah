@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jeet!</h1>
 
-Software Engineer at @100Devs
+Software Engineer @100Devs
 
 I build full-stack web applications
 
